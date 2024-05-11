@@ -1,0 +1,32 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+body {
+  padding-left: 10.5%;
+  padding-right: 10.5%;
+}
+
+.propaganda {
+  margin-top: 20px;
+}
+
+a {
+  display: block;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+    }
+
+p, h1, a  {
+  text-align: justify !important;
+}
+
+h1 {
+  font-weight: bolder;
+  font-size: 28px;
+}
