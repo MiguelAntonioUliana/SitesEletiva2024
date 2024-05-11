@@ -7,7 +7,7 @@
 </head>
 <body>
     
-<a href="www.google.com">Teste</a>
+<a href="Site Tecnologia - Ramon e Dioglas\index.html">Teste</a>
 
 
 </body>
