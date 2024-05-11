@@ -4,8 +4,6 @@ Olá caro visitante, bem vindo ao site principal, aqui você encontra todos os s
 
 Clique nos links abaixo e veja cada site criado, o site foi adptado pelo professor para ter responsividade em telas menores, assim você consegue acessar o site do seu celular
 
-
-
 Lista de sites
 
 <ul>
