@@ -14,7 +14,7 @@ Lista de sites
 <li><a href="Site Jogos - Vande, Haine e Renata\index.html">Site Jogos - Vande, Haine e Renata</a></li>
 <li><a href="Site Mitologia - Kethelen, Nathan e Luis\index.html">Site Mitologia - Kethelen, Nathan e Luis</a></li>
 <li><a href="Site Notícias - Matheus\index.html">Site Notícias - Matheus</a></li>
-<li><a href="Site Stich - Bárbara e Guilherme\index.html">Site Stich - Bárbara e Guilherme</a></li>
+<li><a href="Site Stitch - Bárbara e Guilherme\index.html">Site Stitch - Bárbara e Guilherme</a></li>
 <li><a href="Site Tecnologia - Ramon e Dioglas\index.html">Site Tecnologia - Ramon e Dioglas</a></li>
 </ul>
 
