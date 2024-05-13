@@ -7,6 +7,7 @@ Clique nos links abaixo e veja cada site criado, o site foi adptado pelo profess
 Lista de sites
 
 <ul>
+<li><a href="https://galazzij.github.io/">Site Gelateria - Jamille</a></li>
 <li><a href="Site - Bel Music - Amanda, Eduardo e Julia\index.html">Site - Bel Music - Amanda, Eduardo e Julia</a></li>
 <li><a href="Site Beleza Natura - Vitória e Isabella\index.html">Site Beleza Natura - Vitória e Isabella</a></li>
 <li><a href="Site Cubo Mágico - Kauã e Jhonathan\index.html">Site Cubo Mágico - Kauã e Jhonathan</a></li>
