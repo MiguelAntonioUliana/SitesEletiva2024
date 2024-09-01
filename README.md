@@ -7,7 +7,7 @@ Clique nos links abaixo e veja cada site criado, o site foi adptado pelo profess
 Lista de sites
 
 <ul>
-<li><a href="https://galazzij.github.io/">Site Viagens- Jamille</a></li>
+<li><a href="https://galazzij.github.io/">Portfólio- Jamille</a></li>
 <li><a href="Site Cosmos Squad - Matheus\index.html">Site Cosmos Squad - Matheus</a></li>
 <li><a href="Site Insônia - Samuel\index.html">Site Insônia - Samuel</a></li>
 <li><a href="Site Jogos - Heitor e KN\index.html">Site Jogos - Heitor e KN</a></li>
