@@ -7,15 +7,12 @@ Clique nos links abaixo e veja cada site criado, o site foi adptado pelo profess
 Lista de sites
 
 <ul>
-<li><a href="https://galazzij.github.io/">Site Gelateria - Jamille</a></li>
-<li><a href="Site - Bel Music - Amanda, Eduardo e Julia\index.html">Site - Bel Music - Amanda, Eduardo e Julia</a></li>
-<li><a href="Site Beleza Natura - Vitória e Isabella\index.html">Site Beleza Natura - Vitória e Isabella</a></li>
-<li><a href="Site Cubo Mágico - Kauã e Jhonathan\index.html">Site Cubo Mágico - Kauã e Jhonathan</a></li>
-<li><a href="Site Eletrônicos - Maycon e Pablo\index.html">Site Eletrônicos - Maycon e Pablo</a></li>
-<li><a href="Site Jogos - Vande, Haine e Renata\index.html">Site Jogos - Vande, Haine e Renata</a></li>
-<li><a href="Site Mitologia - Kethelen, Nathan e Luis\index.html">Site Mitologia - Kethelen, Nathan e Luis</a></li>
-<li><a href="Site Notícias - Matheus\index.html">Site Notícias - Matheus</a></li>
-<li><a href="Site Stitch - Bárbara e Guilherme\index.html">Site Stitch - Bárbara e Guilherme</a></li>
-<li><a href="Site Tecnologia - Ramon e Dioglas\index.html">Site Tecnologia - Ramon e Dioglas</a></li>
+<li><a href="https://galazzij.github.io/">Site Viagens- Jamille</a></li>
+<li><a href="Site Cosmos Squad - Matheus\index.html">Site Cosmos Squad - Matheus</a></li>
+<li><a href="Site Insônia - Samuel\index.html">Site Insônia - Samuel</a></li>
+<li><a href="Site Jogos - Heitor e KN\index.html">Site Jogos - Heitor e KN</a></li>
+<li><a href="Site Liberdade - Isabelly\index.html">Site Liberdade - Isabelly</a></li>
+<li><a href="Site Linguagens de Programação - Heitor\index.html">Site Linguagens de Programação - Heitor</a></li>
+<li><a href="Site Sobrenatural Carros\index.html">Site Sobrenatural Carros</a></li>
 </ul>
 
